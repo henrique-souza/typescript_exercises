@@ -7,4 +7,4 @@ Link: https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.co
 function addNumbers(number1, number2) {
     return number1 + number2;
 }
-console.log(addNumbers(3, 6));
+console.log(addNumbers(10, 6));
